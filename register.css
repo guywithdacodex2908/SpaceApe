@@ -1,0 +1,17 @@
+h3 {
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.btn-btn-dark-outline :hover {
+    background-color: red;
+    cursor: pointer;
+}
+
+body {
+    text-align: center;
+    font-weight: bold;
+    margin-left: 200px;
+    background-color: white;
+    
+}
