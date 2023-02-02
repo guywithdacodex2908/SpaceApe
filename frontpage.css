@@ -1,0 +1,14 @@
+.logo :hover{
+    height: 50px;
+    width: fit-content;
+   color: black;
+    align-self: center;
+    cursor: pointer;
+}
+
+body {
+    text-align: center;
+    padding-right: 20px;
+    margin-top: 15px;
+    font-weight: bolder;
+}
